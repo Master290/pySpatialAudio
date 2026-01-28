@@ -1,6 +1,6 @@
 # pySpatialAudio
 
-**pySpatialAudio** is a powerful Python-based music player designed for advanced spatial audio playback and visualization. It supports multi-channel audio configurations (up to 24 channels) and features a dynamic, scalable user interface for visualizing and controlling sound fields in real-time.
+**pySpatialAudio** is a powerful Python-based music player designed for advanced spatial audio playback and visualization. It supports multi-channel audio configurations (up to 24 channels) and features a dynamic, scalable user interface for visualizing and controlling sound fields in real-time. [Watch the showcase](https://youtu.be/wbYkrV6kors)
 
 ![Screenshot](https://i.imgur.com/qlCgWXM.png)
 24 channel song example
